@@ -1,0 +1,15 @@
+C:\Users\Anatomikq\Desktop\dz3CS\bin\Debug\net7.0\dz3CS.exe
+C:\Users\Anatomikq\Desktop\dz3CS\bin\Debug\net7.0\dz3CS.deps.json
+C:\Users\Anatomikq\Desktop\dz3CS\bin\Debug\net7.0\dz3CS.runtimeconfig.json
+C:\Users\Anatomikq\Desktop\dz3CS\bin\Debug\net7.0\dz3CS.dll
+C:\Users\Anatomikq\Desktop\dz3CS\bin\Debug\net7.0\dz3CS.pdb
+C:\Users\Anatomikq\Desktop\dz3CS\obj\Debug\net7.0\dz3CS.csproj.AssemblyReference.cache
+C:\Users\Anatomikq\Desktop\dz3CS\obj\Debug\net7.0\dz3CS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anatomikq\Desktop\dz3CS\obj\Debug\net7.0\dz3CS.AssemblyInfoInputs.cache
+C:\Users\Anatomikq\Desktop\dz3CS\obj\Debug\net7.0\dz3CS.AssemblyInfo.cs
+C:\Users\Anatomikq\Desktop\dz3CS\obj\Debug\net7.0\dz3CS.csproj.CoreCompileInputs.cache
+C:\Users\Anatomikq\Desktop\dz3CS\obj\Debug\net7.0\dz3CS.dll
+C:\Users\Anatomikq\Desktop\dz3CS\obj\Debug\net7.0\refint\dz3CS.dll
+C:\Users\Anatomikq\Desktop\dz3CS\obj\Debug\net7.0\dz3CS.pdb
+C:\Users\Anatomikq\Desktop\dz3CS\obj\Debug\net7.0\dz3CS.genruntimeconfig.cache
+C:\Users\Anatomikq\Desktop\dz3CS\obj\Debug\net7.0\ref\dz3CS.dll
